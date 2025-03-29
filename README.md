@@ -3,3 +3,5 @@ I’m a graduate of the London School of Economics and Political Science. At the
 
 | <a> <img height=200 align="center" src="http://github-readme-stats-git-master-dianyi-yangs-projects.vercel.app/api?username=kv9898&show_icons=true&show=discussions_started&theme=transparent&hide_border=true" alt="Dianyi's github stats" /></a> | <a> <img height=200 align="center" src="https://github-readme-stats-git-master-dianyi-yangs-projects.vercel.app/api/top-langs?username=kv9898&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true" alt="Dianyi's top languages" /></a> |
 | ------------- | ------------- |
+
+[![我的代码行数](https://readme-line-counter.vercel.app/kv9898)](https://github.com/InsideEmpire/readme-LineCounter)
