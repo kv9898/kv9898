@@ -12,8 +12,6 @@ I’m a DPhil candidate in [Politics](https://www.politics.ox.ac.uk/course/dphil
   <a href="#"><img alt="Rust" src="https://shields.io/badge/-Rust-3776AB?style=flat&logo=rust&logoColor=white"></a>
   <a href="#"><img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&style=flat&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=flat&logoColor=white"></a>
-  <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?&logo=LaTeX&logoColor=white"></a>
-  <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?&logo=markdown&logoColor=white"></a>
 
 ### 💻 Programming Tools
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"></a>
@@ -23,4 +21,8 @@ I’m a DPhil candidate in [Politics](https://www.politics.ox.ac.uk/course/dphil
   <a href="#"><img alt="uv" src="https://img.shields.io/badge/uv-%23DE5FE9.svg?style=flat&logo=uv&logoColor=white"></a>
   <a href="#"><img alt="Positron" src="https://img.shields.io/badge/-Positron-276DC3?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDQ0MCA0NDAiPgogIDxnIGlkPSJMYXllcl82IiBkYXRhLW5hbWU9IkxheWVyIDYiPgogICAgPHJlY3QgeD0iMTIiIHk9IjEyIiB3aWR0aD0iNDE2IiBoZWlnaHQ9IjQxNiIgcng9IjEwMyIgcnk9IjEwMyIgZmlsbD0iIzNhNzhiMSIgc3Ryb2tlLXdpZHRoPSIwIi8+CiAgPC9nPgogIDxnIGlkPSJMYXllcl84IiBkYXRhLW5hbWU9IkxheWVyIDgiPgogICAgPHBhdGggZD0iTTgzLjYsMzczLjZ2LTE3OC42YzAtNjMsNTIuNC0xNDMuNywxNDIuNy0xNDMuN3MxNDQuMSw2OS43LDE0NC4xLDE0MS4xYzAsMTIyLjYtMTE2LjYsMTQzLjEtMTE2LjYsMTQzLjEsMCwwLDcuMi0xMS41LDcuMi0yOS41cy04LTI4LTgtMjhjMCwwLDYwLTE2LDYwLTg3cy01My04My04Ni04M2MtNTcsMC04OC4zLDQ4LjUtODguMyw4NC4zdjE4MS45YzAsMjUuOS0xNy41LDIzLjktMTcuNSwyMy45aC0xOS4ycy0xOC40LDAtMTguNC0yNC40WiIgZmlsbD0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIwIi8+CiAgPC9nPgogIDxnIGlkPSJMYXllcl85IiBkYXRhLW5hbWU9IkxheWVyIDkiPgogICAgPGNpcmNsZSBjeD0iMjA0LjkiIGN5PSIzMDYuNiIgcj0iNDgiIGZpbGw9IiNmZmYiIHN0cm9rZS13aWR0aD0iMCIvPgogIDwvZz4KPC9zdmc+Cg==&logoColor=white"></a>
 
-
+### 🔬 Research Cycle 
+  <a href="#"><img alt="Zotero" src="https://img.shields.io/badge/-Zotero-CC2936?logo=zotero&logoColor=white"></a>
+  <a href="#"><img alt="Quarto" src="https://img.shields.io/badge/-Quarto-63AEE8?style=flat&logo=data:image/svg+xml;base64,PCEtLT94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPy0tPgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8IS0tIGJsdWUgZmlsbCA9IFF1YXJ0by1saWtlIGNvbG9yIC0tPgogIDxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjQ1IiBmaWxsPSIjNjNBRUU4Ij48L2NpcmNsZT4KICA8IS0tIGNyb3NzIGdhcHMgLS0+CiAgPHJlY3QgeD0iNDMiIHk9IjAiIHdpZHRoPSIxNCIgaGVpZ2h0PSIxMDAiIGZpbGw9IiNmZmZmZmYiPjwvcmVjdD4KICA8cmVjdCB4PSIwIiB5PSI0MyIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxNCIgZmlsbD0iI2ZmZmZmZiI+PC9yZWN0Pgo8L3N2Zz4K&logoColor=white"></a>
+  <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?&logo=LaTeX&logoColor=white"></a>
+  <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?&logo=markdown&logoColor=white"></a>
