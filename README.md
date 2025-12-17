@@ -7,12 +7,14 @@ I’m a DPhil candidate in [Politics](https://www.politics.ox.ac.uk/course/dphil
 <!--[![我的代码行数](https://readme-line-counter.vercel.app/kv9898)](https://github.com/InsideEmpire/readme-LineCounter)-->
 
 ### 👨‍💻 Programming Languages
+<p style="white-space:nowrap">
   <a href="#"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?&logo=r&logoColor=white"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white"></a>
   <a href="#"><img alt="Rust" src="https://shields.io/badge/-Rust-EF4900?style=flat&logo=rust&logoColor=white"></a>
   <a href="#"><img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&style=flat&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=flat&logoColor=white"></a>  
   <a href="#"><img alt="Stata" src="https://img.shields.io/badge/-Stata-276DC3?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImEiIHgxPSIxNiIgeTE9IjIiIHgyPSIxNiIgeTI9IjMwIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjOGFhN2MwIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjM2M2ZThmIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHRpdGxlPmZpbGVfdHlwZV9zdGF0YTwvdGl0bGU+PHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjI4IiBoZWlnaHQ9IjI4IiByeD0iMS41NTYiIHJ5PSIxLjU1NiIgc3R5bGU9ImZpbGw6dXJsKCNhKSIvPjxyZWN0IHg9IjEzLjE3MSIgeT0iNi4wMTUiIHdpZHRoPSI1Ljc1NiIgaGVpZ2h0PSI1Ljc1NiIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxyZWN0IHg9IjIwLjMyNiIgeT0iNi4wMTUiIHdpZHRoPSI1Ljc1NiIgaGVpZ2h0PSI1Ljc1NiIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxyZWN0IHg9IjIwLjMyNiIgeT0iMTMuMTcxIiB3aWR0aD0iNS43NTYiIGhlaWdodD0iNS43NTYiIHN0eWxlPSJmaWxsOiNmZmYiLz48cmVjdCB4PSIxMy4xNzEiIHk9IjEzLjE3MSIgd2lkdGg9IjUuNzU2IiBoZWlnaHQ9IjUuNzU2IiBzdHlsZT0iZmlsbDojZmZmIi8+PHJlY3QgeD0iNi4wMTUiIHk9IjEzLjE3MSIgd2lkdGg9IjUuNzU2IiBoZWlnaHQ9IjUuNzU2IiBzdHlsZT0iZmlsbDojZmZmIi8+PHJlY3QgeD0iNi4wMTUiIHk9IjIwLjMyNiIgd2lkdGg9IjUuNzU2IiBoZWlnaHQ9IjUuNzU2IiBzdHlsZT0iZmlsbDojZmZmIi8+PHJlY3QgeD0iMTMuMTcxIiB5PSIyMC4zMjYiIHdpZHRoPSI1Ljc1NiIgaGVpZ2h0PSI1Ljc1NiIgc3R5bGU9ImZpbGw6I2ZmZiIvPjwvc3ZnPg==&logoColor=white"></a>
+</p>
 
 ### 💻 Programming Tools
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"></a>
