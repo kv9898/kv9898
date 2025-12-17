@@ -9,7 +9,7 @@ I’m a DPhil candidate in [Politics](https://www.politics.ox.ac.uk/course/dphil
 ### 👨‍💻 Programming Languages
   <a href="#"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?&logo=r&logoColor=white"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white"></a>
-  <a href="#"><img alt="Rust" src="https://shields.io/badge/-Rust-3776AB?style=flat&logo=rust&logoColor=white"></a>
+  <a href="#"><img alt="Rust" src="https://shields.io/badge/-Rust-EF4900?style=flat&logo=rust&logoColor=white"></a>
   <a href="#"><img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&style=flat&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=flat&logoColor=white"></a>
 
