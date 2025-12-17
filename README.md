@@ -14,3 +14,10 @@ I’m a DPhil candidate in [Politics](https://www.politics.ox.ac.uk/course/dphil
   <a href="#"><img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=flat&logoColor=white"></a>
   <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?&logo=LaTeX&logoColor=white"></a>
   <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?&logo=markdown&logoColor=white"></a>
+
+### 💻 Programming Tools
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white"></a>
+  <a href="#"><img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-8957E5?style=flat&logo=github-copilot&logoColor=white"></a>
+  <a href="#"><img alt="Conda" src="https://img.shields.io/badge/-Conda-44A833?logo=anaconda&logoColor=white"></a>
+  <a href="#"><img alt="uv" src="https://img.shields.io/badge/uv-%23DE5FE9.svg?style=flat&logo=uv&logoColor=white"></a>
